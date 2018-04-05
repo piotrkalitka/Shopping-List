@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+
+    <string name="currentListsLabel">Current lists</string>
+    <string name="archivedListsLabel">Archived lists</string>
+
+    <string name="archive_list_message">Are you sure you want to archive this shopping list?</string>
+    <string name="archive_list_positive_btn">Yes</string>
+    <string name="archive_list_negative_btn">No</string>
+
+    <string name="dialog_add_list_title">Title of your list:</string>
+    <string name="dialog_add_list_submit">OK</string>
+    <string name="dialog_add_list_title_empty_error">Can not be empty</string>
+
+    <string name="list_archived_title">%s (archived)</string>
+    <string name="list_title">%s (%d)</string>
+
+    <string name="add_item_hint">Add item here</string>
+    <string name="add_item_custom_enter">Add</string>
+
+
+    <string name="cd_remove_image">Remove image</string>
+
+</resources>
